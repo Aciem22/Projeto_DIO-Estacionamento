@@ -1,0 +1,8 @@
+G:\Arquivos de programas\projects-C#\projeto-estacionamento\projeto-estacionamento\bin\Debug\projeto-estacionamento.exe.config
+G:\Arquivos de programas\projects-C#\projeto-estacionamento\projeto-estacionamento\bin\Debug\projeto-estacionamento.exe
+G:\Arquivos de programas\projects-C#\projeto-estacionamento\projeto-estacionamento\bin\Debug\projeto-estacionamento.pdb
+G:\Arquivos de programas\projects-C#\projeto-estacionamento\projeto-estacionamento\obj\Debug\projeto-estacionamento.csproj.AssemblyReference.cache
+G:\Arquivos de programas\projects-C#\projeto-estacionamento\projeto-estacionamento\obj\Debug\projeto-estacionamento.csproj.SuggestedBindingRedirects.cache
+G:\Arquivos de programas\projects-C#\projeto-estacionamento\projeto-estacionamento\obj\Debug\projeto-estacionamento.csproj.CoreCompileInputs.cache
+G:\Arquivos de programas\projects-C#\projeto-estacionamento\projeto-estacionamento\obj\Debug\projeto-estacionamento.exe
+G:\Arquivos de programas\projects-C#\projeto-estacionamento\projeto-estacionamento\obj\Debug\projeto-estacionamento.pdb
